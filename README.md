@@ -21,4 +21,4 @@ Desenvolvido para  **praticar** ***C#, Avalonia UI e arquitetura MVVM.***
 - **Arquitetura:** MVVM (Model-View-ViewModel)
 
 ## 📦 Download
-Vá para página de [releases]()
+Vá para página de [releases](https://github.com/Raph-Rodrigues/Study-Platform/releases/tag/v1.0.0)
